@@ -117,17 +117,5 @@ POST http://localhost:8080/students
 Contributions, issues, and improvements are welcome.  
 You may fork the project and submit pull requests.
 
----
 
-## 👩‍💻 Author
-
-**Venuri Himasha**  
-Undergraduate | Java | Spring Boot | Software Development  
-📍 General Sir John Kotelawala Defence University
-
----
-
-## 📜 License
-
-You may add a license (MIT, Apache 2.0, etc.) if required.
 
